@@ -16,3 +16,15 @@ My previous experience with CLI was limited to basic commands (i.e. Modules 1-2 
 I found that expansions (especially brace expansions) were surprisingly fun. Another element of surprise (okay, not that surprising) was that I need to adopt better directory naming practices, since it took me a fair amount of attempts to effectively move files between directories, with most of my attempts ending up with "No such file or directory".
 
 I was particularly interested in redirection commands and want to use them asap.
+
+
+## Git Collaboration
+
+![Udacity GitHub Collaboration](task_git_collaboration/Udacity_GitHub.png)
+
+Practiced creating pull requests again. Enjoyed CS50 reunion. 
+
+Got a better understanding of `git rebase -i`. 
+[Learn Git Branching](learngitbranching.js.org) is starting to make a lot more sense :laughing:. 
+
+Found some neat flags that I intend to use in my work, such as `--grep` or `git log --oneline --graph --decorate --all`.
