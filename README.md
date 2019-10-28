@@ -35,7 +35,11 @@ Found some neat flags that I intend to use in my work, such as `--grep` or `git 
 [HackerRank profile](https://www.hackerrank.com/jamie_ikonnikova)
 
 Even though it took me the longest time to complete this section, I appreciate the challenge and strongly believe that practicing exercises from both sets of assignments made me a better programmer.
+
 I have especially liked [Code Wars](https://www.codewars.com), because this resource encourages you to come up with concise and beautiful solutions, as well as [Practice Python](https://www.practicepython.org), because along with the fun exercises the materials were very helpful. 
+
 Among new things I have encountered, were python libraries BeautifulSoup and requests. 
+
 I was surprised at how much I’ve started to appreciate the list/dictionary comprehensions. 
+
 I intend to use whatever is the most appropriate and applicable solution for the problems I encounter :)
